@@ -12,8 +12,8 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 		    media : [ //Stimuli content as PIP's media objects
     		    	{word : 'Republican'}, 
 			{word : 'Donald Trump'}, 
-        		{word : 'right wing'},
-			{word : 'conservative'}
+        		{word : 'Right Wing'},
+			{word : 'Conservative'}
 		    ], 
 		    //Stimulus css (style)
 		    css : {color:'#31b404','font-size':'3em'}
